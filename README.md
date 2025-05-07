@@ -114,8 +114,6 @@ Update Checks:
 
 Automatic GitHub version checks every 24 hours
 
-Respects GitHub API rate limits
-
 
 Logging:
 
