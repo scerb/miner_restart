@@ -1,5 +1,5 @@
 # miner_restart
-cortensor auto miner restart
+cortensor auto miner configurable restart for linux
 
 
 1. Initialization Commands
